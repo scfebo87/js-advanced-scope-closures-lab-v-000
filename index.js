@@ -9,4 +9,5 @@ function produceDrivingRange(drivingRange) {
   };
 }
 
-function 
+function produceTipCalculator(percent) { 
+  
